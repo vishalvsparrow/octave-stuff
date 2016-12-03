@@ -1,0 +1,1 @@
+To run this program, simply type "main" in your Octave CLI after navigating to this folder
